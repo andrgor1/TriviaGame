@@ -1,0 +1,89 @@
+
+.container {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: blue;
+    width: 960px;
+  }
+  
+  
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+    text-align: center;
+  
+  
+    background:
+    linear-gradient(324deg, #232927 4%,   transparent 4%) -70px 43px,
+    linear-gradient( 36deg, #232927 4%,   transparent 4%) 30px 43px,
+    linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 30px 43px,
+    linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -70px 43px,
+    linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -70px 23px,
+    linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 30px 23px,
+    
+    linear-gradient(324deg, #232927 4%,   transparent 4%) -20px 93px,
+    linear-gradient( 36deg, #232927 4%,   transparent 4%) 80px 93px,
+    linear-gradient( 72deg, #e3d7bf 8.5%, transparent 8.5%) 80px 93px,
+    linear-gradient(288deg, #e3d7bf 8.5%, transparent 8.5%) -20px 93px,
+    linear-gradient(216deg, #e3d7bf 7.5%, transparent 7.5%) -20px 73px,
+    linear-gradient(144deg, #e3d7bf 7.5%, transparent 7.5%) 80px 73px;
+    background-color: #232927;
+    background-size: 100px 100px;
+  
+  }
+  
+  #box1 {
+      float: center;
+      width: 120px;
+      background-color:grey;
+      margin: 10px;
+      border-width: 2px;
+      border-color: #dddddd;
+      padding: 10px;
+      margin-top: 70px;
+      margin-bottom: 50px;
+    text-align: center;
+  
+    }
+  
+    #box2 {
+      text-align: center;
+      background-color:whitesmoke;
+      margin: auto;
+    padding: 20px; 
+    width: 50%;
+    margin-top: 200px;
+      }
+
+      body{
+        font-size: 20px;
+        font-family: sans-serif;
+        color: #333;
+    }
+    .question{
+        font-weight: 600;
+    }
+    .answers {
+        margin-bottom: 20px;
+    }
+    #submit{
+        font-family: sans-serif;
+        font-size: 20px;
+        background-color: #297;
+        color: #fff;
+        border: 0px;
+        border-radius: 3px;
+        padding: 20px;
+        cursor: pointer;
+        margin-bottom: 20px;
+    }
+    #submit:hover{
+        background-color: #3a8;
+    }
+  
